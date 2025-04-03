@@ -26,4 +26,4 @@ function getShippingCost(country){
   console.log(getShippingCost("China"));
   console.log(getShippingCost("Chile")); 
   console.log(getShippingCost("Jamaica"));
-  console.log(getShippingCost("Sweden")); 
+  console.log(getShippingCost("Sweden")); //
